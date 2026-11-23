@@ -17,6 +17,6 @@ const CFG={
   ],
   api:"https://cabinova-pay.nedjmeddineguebli42.workers.dev",                              // رابط خادم الدفع (Cloudflare Worker) — يُملأ بعد إنشائه، مثال: https://cabinova-pay.xxx.workers.dev
   download:"CabiNova_Setup.zip",
-  sha256:"0cbbf6b709e88f652e1d30255a548b451652f76313798c4d7c6f656125000fe0",
-  version:"100"
+  sha256:"afebc4015e1047bef298faa094b478b7d5ea257447612ee241fb453d05166d51",
+  version:"101"
 };
